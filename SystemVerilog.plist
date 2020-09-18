@@ -490,7 +490,7 @@
 		<key>Open Statement Blocks</key>    
 		<string>begin</string>
         <key>Close Statement Blocks</key>   
-		<string>end</string>
+		<string>end</string> 
 	</dict>
 </dict>
 </plist>
